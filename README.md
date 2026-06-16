@@ -43,16 +43,5 @@ python login.py
 
 Nikhita Narra
 
-# Student Management System
 
-Student Management System developed using Python, Tkinter, and MySQL.
 
-## Application Screenshots
-
-### Login Page
-
-![Login Page](screenshots/login_page.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
