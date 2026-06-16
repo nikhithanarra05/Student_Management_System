@@ -51,8 +51,8 @@ Student Management System developed using Python, Tkinter, and MySQL.
 
 ### Login Page
 
-![Login Page](login_page.png)
+![Login Page](screenshots/login_page.png)
 
 ### Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
